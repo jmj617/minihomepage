@@ -1,7 +1,4 @@
 # MJ의 미니홈페이지
 
-## 스타일 구성
-- style.md
-
-## README 수정 커밋 테스트
-- test.md
+## 서비스 소개 페이지 추가
+- about.md 추가
