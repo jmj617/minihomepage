@@ -9,6 +9,3 @@
 
 ## 장바구니 기능 개발
 - cart.md
-
-## footer 추가
-- footer.md
